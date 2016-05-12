@@ -1,0 +1,57 @@
+/*LAYOUT*/
+body{
+    padding-top:50px;
+    background:url("../img/madera.jpg") fixed center top;
+}
+
+.wrapper{
+    margin:0 auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.logo{
+    width: 350px;
+}
+
+.content{
+    background: rgba(255,255,255,0.8);
+    width: 900px;
+    height: 527px;
+    margin: 20px auto;
+}
+/*END LAYOUT*/
+
+/*WELCOME*/
+h1{
+    color:#FFF;
+    text-align: center;
+}
+
+.icon{
+    font-size:150px;
+    color:#FFF;
+    margin: 45px 120px;
+/*
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+*/
+
+}
+
+.square{
+    background-color: #000;
+    padding: 10px 10px 40px 10px;
+    margin: 90px 0px 0px 30px;
+}
+/*END WELCOME*/
+
+/*MESA*/
+.formulari {
+
+}
+
+/*END MESA*/
